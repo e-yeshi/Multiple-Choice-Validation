@@ -1,0 +1,3 @@
+q01,The curly braces are used to display variables in a string statement,a
+q02,A for loop will check the condition statement after executing the segment of code between the curly braces?,b
+q03,The echo command is a means of outputting text to the web browser?,a

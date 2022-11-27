@@ -1,0 +1,41 @@
+
+.buttons{
+  padding-top: 13px;
+}
+.home-button{
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+}
+.middle-container{
+  padding-left: 40px;
+}
+.main-containor{
+  min-height: 25.5em; 
+  background: #75869c;
+  padding-bottom: 10px;
+  color : white;
+}
+.white{
+  color : white;
+}
+.practica-button{
+  position: absolute;
+  bottom: 11px;
+  right: 87px;
+}
+.black{
+  color:#000;
+}
+.red{
+  color:red;
+}
+.yellow{
+  color:yellow;
+}
+.green{
+  color: green;
+}
+.center{
+  text-align: center;
+}
